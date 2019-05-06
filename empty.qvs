@@ -1,1 +1,4 @@
 // first line of code
+// added second line of code
+
+Trace this is a $(vScriptPath) script;
